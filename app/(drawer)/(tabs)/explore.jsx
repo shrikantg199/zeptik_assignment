@@ -63,7 +63,7 @@ const Explore = () => {
           paddingHorizontal: 20,
         }}
       >
-        <Text>Vsell</Text>
+        <Text style={{fontSize:18,fontWeight:800}}>Vsell</Text>
         <Entypo
           name="menu"
           size={24}
