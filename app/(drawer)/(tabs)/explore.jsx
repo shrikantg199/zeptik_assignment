@@ -66,7 +66,7 @@ const Explore = () => {
         <Text style={{fontSize:18,fontWeight:800}}>Vsell</Text>
         <Entypo
           name="menu"
-          size={24}
+          size={30}
           color="black"
           onPress={() => navigation.dispatch(DrawerActions.openDrawer())}
         />
